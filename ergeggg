@@ -6,7 +6,7 @@ local Window = OrionLib:MakeWindow({
     SaveConfig = true,
     ConfigFolder = "test",
     IntroEnabled = true,
-    IntroText = "Trixo v13",
+    IntroText = "Nexus",
 })
 
 Tab1 = Window:MakeTab({

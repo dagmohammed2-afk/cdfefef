@@ -67,7 +67,7 @@ end)
 
 -- Rayfield UI
 Tab1:AddToggle({
-	Name = "🔴 Aimbot (Right mouse button)",
+	Name = "🔴 Aimbot ()",
 	CurrentValue = false,
 	Flag = "AimbotToggle",
 	Callback = function(v) aimbotEnabled = v end,
